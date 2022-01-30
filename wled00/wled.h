@@ -27,7 +27,7 @@
 #endif
 
 // You need to choose some of these features to disable:
-#define WLED_DISABLE_ALEXA         // saves 11kb
+#define WLED_ENABLE_ALEXA         // saves 11kb
 #define WLED_DISABLE_BLYNK         // saves 6kb
 #define WLED_DISABLE_CRONIXIE      // saves 3kb
 #define WLED_DISABLE_HUESYNC       // saves 4kb
